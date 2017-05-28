@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Behavior">
+</Property><Property Name="解决方案文件" Value="I:\20140305\Course\computer animation\Codes\Behavior_VS_Framework--框架(全4部分)\VS_Framework\Behavior.sln">
+</Property><Property Name="用户选项文件" Value="I:\20140305\Course\computer animation\Codes\Behavior_VS_Framework--框架(全4部分)\VS_Framework\Behavior.suo">
+</Property><Property Name="Date" Value="2014年4月30日">
+</Property><Property Name="Time" Value="13:12">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Behavior.sln" Description="文件已成功备份为 I:\20140305\Course\computer animation\Codes\Behavior_VS_Framework--框架(全4部分)\VS_Framework\Behavior.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Behavior.suo" Description="文件已成功备份为 I:\20140305\Course\computer animation\Codes\Behavior_VS_Framework--框架(全4部分)\VS_Framework\Behavior.suo.old">
+</Event><Event ErrorLevel="0" Project="Behavior" Source="Behavior\Behavior.vcproj" Description="Converting project file 'I:\20140305\Course\computer animation\Codes\Behavior_VS_Framework--框架(全4部分)\VS_Framework\Behavior\Behavior.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Behavior" Source="Behavior\Behavior.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Behavior" Source="Behavior\Behavior.vcproj" Description="Done converting to new project file 'I:\20140305\Course\computer animation\Codes\Behavior_VS_Framework--框架(全4部分)\VS_Framework\Behavior\Behavior.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Behavior" Source="Behavior\Behavior.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Behavior.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="Behavior.sln" Description="Converted">
+</Event></UpgradeLog>

@@ -1,0 +1,61 @@
+﻿生成启动时间为 2017/5/26 星期五 23:14:20。
+     1>项目“D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Behavior\Behavior.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_aboutdialog.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Release\moc_aboutdialog.cpp, GeneratedFiles\Debug\moc_aboutdialog.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_BehaviorGlWidget.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Release\moc_BehaviorGlWidget.cpp, GeneratedFiles\Debug\moc_BehaviorGlWidget.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_controlpaneldialog.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Release\moc_controlpaneldialog.cpp, GeneratedFiles\Debug\moc_controlpaneldialog.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_glwidget.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Release\moc_glwidget.cpp, GeneratedFiles\Debug\moc_glwidget.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_graphicsscene.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Release\moc_graphicsscene.cpp, GeneratedFiles\Debug\moc_graphicsscene.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_graphwidget.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Release\moc_graphwidget.cpp, GeneratedFiles\Debug\moc_graphwidget.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_interpolationdialog.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Release\moc_interpolationdialog.cpp, GeneratedFiles\Debug\moc_interpolationdialog.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_mainwindow.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Release\moc_mainwindow.cpp, GeneratedFiles\Debug\moc_mainwindow.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_ParticleGlWidget.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Release\moc_ParticleGlWidget.cpp, GeneratedFiles\Debug\moc_ParticleGlWidget.cpp.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(935,5): warning MSB8027: Two or more files with the name of moc_skeletondialog.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are GeneratedFiles\Release\moc_skeletondialog.cpp, GeneratedFiles\Debug\moc_skeletondialog.cpp.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I..\QT\include /I.\GeneratedFiles\Debug /I..\QT\include\qtmain /I..\QT\include\QtCore /I..\QT\include\QtGui /I..\QT\include\QtOpenGL /I.\ /I.\GL /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_LARGEFILE_SUPPORT /D QT_CORE_LIB /D QT_GUI_LIB /D QT_OPENGL_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\\" /Fd"D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Animation.cpp
+         Animation.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\Behavior.exe" /NOLOGO /LIBPATH:..\QT\lib /LIBPATH:.\GL qtmaind.lib QtCored4.lib QtGuid4.lib QtOpenGLd4.lib opengl32.lib glu32.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\Behavior.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\Behavior.lib" /MACHINE:X86 /SAFESEH /SAFESEH:NO "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\aboutdialog.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\Agent.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\AgentDisplay.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\Animation.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\BehaviorCamera.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\BehaviorGlWidget.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\BehaviorSimulation.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\Camera.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\controlpaneldialog.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\edge.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\Environment.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\glwidget.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\graphicsscene.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\graphwidget.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\interpolationdialog.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\main.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\mainwindow.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\node.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\OpenGLViewer.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\ParticleGLWidget.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\ParticleSystem.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\qgraphicsitem.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\Rocket.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\Simulation.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\skeletondialog.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\Spark.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\spline.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\Transformation.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\qrc_Resource.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\moc_aboutdialog.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\moc_BehaviorGlWidget.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\moc_controlpaneldialog.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\moc_glwidget.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\moc_graphicsscene.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\moc_graphwidget.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\moc_interpolationdialog.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\moc_mainwindow.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\moc_ParticleGlWidget.obj"
+         "D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\moc_skeletondialog.obj"
+         Behavior.vcxproj -> D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Debug\Behavior.exe
+     1>已完成生成项目“D:\Cooper\Documents\Visual Studio 2013\Projects\animation\VS_Framework\Behavior\Behavior.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:13.56
